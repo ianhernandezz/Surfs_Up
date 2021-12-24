@@ -1,6 +1,6 @@
 # Surfs_Up
 
-**Overview** of the analysis: Explain the purpose of this analysis.
+**Overview** 
 
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
@@ -11,7 +11,7 @@ What will come out of these new directions?
 - Determine the Summary Statistics for December
 
 
-**Results:** Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+**Results:**
 
 # JUNE SUMMARY
 
@@ -33,3 +33,11 @@ What will come out of these new directions?
 
 
 **Summary:** Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+
+Between June and Decemember the temperatures recorded do not seem to have too much of a difference, which can affect other types of analysis in the future. Otherwise, the data reported has some difference, specifically in the count, to wehre June had 183 more data points. These numbers undoubly made the data a little inconsistent for a comparison as the average is affected along with high, mid, and low. Therefore, the comparison is not fully accurate. 
+
+From the anaylsis that was just conducted. Two additional queries that I would recommend to be done are;
+* Humidity 
+* Precipitation 
+
+These two additional points of data would give a better insight of things that could be influencing the temperatures during these months. Additionally, it will provide a better gauge of wha is going on with rising temperatures of the planet (additinal usage if wanted). 
